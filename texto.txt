@@ -1,7 +1,8 @@
 hola! 
-<<<<<<< HEAD
 este es otro cambio
-=======
+
  este es un cambio que realice en esta rama
+
+ cambio realizado el dia lunes
  
->>>>>>> 03712a9d25f8dd7b9c66139df09cac62dc4e7d92
+
