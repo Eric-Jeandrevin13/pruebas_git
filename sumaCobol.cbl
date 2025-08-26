@@ -12,10 +12,10 @@
        procedure division.
            
            display "ingrese numero 1 para sumar:" with no advancing
-           accept num2
+           accept NUM1
            display "ingrese numero 2 para sumar:" with no advancing
-           accept resul
-
-           display "El resultado es: " num2
+           accept NUM2
+           COMPUTE RESUL = NUM1 + NUM2
+           display "El resultado es: " RESUL
 
            stop run.
